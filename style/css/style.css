@@ -1,0 +1,57 @@
+@font-face {
+  font-family: geomatiste;
+  src: url("../../fonts/geomanist-regular-webfont.ttf"); }
+body {
+  background-image: url("../../image/background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden; }
+
+img {
+  width: 550px;
+  margin-top: 50px; }
+
+h3 {
+  font-weight: normal;
+  color: #6944D3;
+  text-transform: uppercase;
+  margin-left: 2%;
+  font-size: 30px;
+  font-family: geomatiste; }
+
+span {
+  font-weight: bold; }
+
+#facebook {
+  margin-left: 20px; }
+
+#icone {
+  color: #fff;
+  font-size: 20px; }
+
+#txt {
+  color: #fff;
+  font-size: 15px;
+  width: 48%;
+  font-family: geomatiste;
+  margin-left: 2%; }
+
+button {
+  background-color: #6944D3;
+  border: none;
+  padding: 0.8%;
+  margin-left: 3%;
+  color: #fff;
+  font-family: geomatiste; }
+
+#fleche {
+  color: #fff;
+  bottom: 0;
+  margin-left: 25%;
+  position: absolute; }
+
+#fun {
+  position: absolute;
+  margin-left: 45%; }
+
+/*# sourceMappingURL=style.css.map */
